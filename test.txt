@@ -1,1 +1,0 @@
-This is a test text to learn how to delete file in Git.
