@@ -1,0 +1,1 @@
+This text is use for test weather could I push Git to GitHub.
