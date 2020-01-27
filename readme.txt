@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Let's add a new line to practice branch.
 Creating a new branch is quick & simple.
 Trying to learn more about git branch.
+Let's try to push Git in Atom.
